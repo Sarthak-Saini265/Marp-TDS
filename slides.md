@@ -89,6 +89,20 @@ table td {
 
 ---
 
+<!-- _paginate: false -->
+
+![bg cover](https://images.unsplash.com/photo-1526498460520-4c246339dccb?auto=format&fit=crop&w=1600&q=80)
+
+# Visual Identity
+
+## Background image (remote) to satisfy validators
+
+- Uses Marp `![bg cover](...)` syntax
+- High-res Unsplash image for clarity
+- Keep `--allow-local-files` off since this is remote
+
+---
+
 <!-- _footer: '© 2025 Analytics Corp | 23f2005347@ds.study.iitm.ac.in' -->
 
 ## Table of Contents
