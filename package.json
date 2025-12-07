@@ -1,0 +1,25 @@
+{
+  "name": "marp-presentation",
+  "version": "1.0.0",
+  "description": "Advanced Analytics Platform Documentation - Marp Presentation",
+  "main": "slides.md",
+  "scripts": {
+    "start": "marp -s . -p 8080",
+    "build": "marp slides.md -o dist/slides.html",
+    "pdf": "marp slides.md --pdf --allow-local-files -o dist/slides.pdf",
+    "pptx": "marp slides.md --pptx -o dist/slides.pptx",
+    "watch": "marp -w slides.md -o dist/slides.html",
+    "export:all": "npm run build && npm run pdf && npm run pptx"
+  },
+  "keywords": [
+    "marp",
+    "presentation",
+    "markdown",
+    "slides"
+  ],
+  "author": "Anand S <23f2005347@ds.study.iitm.ac.in>",
+  "license": "MIT",
+  "devDependencies": {
+    "@marp-team/marp-cli": "^3.4.0"
+  }
+}
