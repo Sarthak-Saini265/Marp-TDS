@@ -120,7 +120,7 @@ The **Advanced Analytics Platform** is a comprehensive solution for:
 
 <!-- _paginate: false -->
 
-![bg](images/background.jpg)
+![bg](images/background.svg)
 
 # Key Features
 
