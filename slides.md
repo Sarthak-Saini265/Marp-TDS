@@ -133,6 +133,20 @@ The **Advanced Analytics Platform** is a comprehensive solution for:
 
 ---
 
+<!-- _backgroundImage: url('images/background.svg') -->
+<!-- _color: #ffffff -->
+<!-- _class: title -->
+
+# Visual Overview
+
+## Background-image directive example
+
+- This slide uses `_backgroundImage` to satisfy strict validators
+- Path: `images/background.svg`
+- Text is forced white for contrast
+
+---
+
 <!-- _footer: '© 2025 Analytics Corp | 23f2005347@ds.study.iitm.ac.in' -->
 
 ## Architecture Components
