@@ -118,8 +118,9 @@ The **Advanced Analytics Platform** is a comprehensive solution for:
 
 ---
 
-<!-- _class: custom-bg -->
 <!-- _paginate: false -->
+
+![bg](images/background.jpg)
 
 # Key Features
 
